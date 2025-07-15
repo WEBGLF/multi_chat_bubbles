@@ -89,7 +89,7 @@ class BubbleNormal extends StatelessWidget {
       stateIcon = Icon(
         Icons.done,
         size: 18,
-        color: Color(0xFF97),
+        color: Color(0xFF97AD8E),
       );
     }
     if (delivered) {
@@ -97,7 +97,7 @@ class BubbleNormal extends StatelessWidget {
       stateIcon = Icon(
         Icons.done_all,
         size: 18,
-        color: Color(0xFF97),
+        color: Color(0xFF97AD8E),
       );
     }
     if (seen) {
