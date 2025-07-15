@@ -156,6 +156,7 @@ class BubbleNormal extends StatelessWidget {
                       text,
                       style: textStyle,
                       textAlign: TextAlign.left,
+                      contextMenuBuilder: (context, editableTextState) => const SizedBox(),
                     ),
                   ),
                   stateIcon != null && stateTick

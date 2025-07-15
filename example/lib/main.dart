@@ -99,7 +99,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Color(0xFF1B97F3),
                   tail: true,
                   textStyle: TextStyle(
-                    fontSize: 20,
                     color: Colors.white,
                   ),
                 ),
