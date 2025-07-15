@@ -46,7 +46,7 @@ class BubbleSpecialTwo extends StatelessWidget {
       stateIcon = Icon(
         Icons.done,
         size: 18,
-        color: Color(0xFF97AD8E),
+        color: Color(0xFF5dc452),
       );
     }
     if (delivered) {
@@ -54,7 +54,7 @@ class BubbleSpecialTwo extends StatelessWidget {
       stateIcon = Icon(
         Icons.done_all,
         size: 18,
-        color: Color(0xFF97AD8E),
+        color: Color(0xFF5dc452),
       );
     }
     if (seen) {
